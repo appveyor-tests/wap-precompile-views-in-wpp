@@ -1,3 +1,6 @@
+image: vs2019-master
+build_cloud: bakery-hyperv-host-20
+
 install:
 - cmake --version
 
